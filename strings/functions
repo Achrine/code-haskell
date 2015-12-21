@@ -1,0 +1,6 @@
+
+excited x = x ++ "!"
+
+fourthPart y = y !! 4
+
+dropped z = drop 9 z
